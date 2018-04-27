@@ -1,0 +1,30 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "an app to find friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunache/Friend-Finder.git"
+  },
+  "author": "Gurnam Sunny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunache/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/sunache/Friend-Finder#readme",
+  "dependencies": {
+    "array-compare": "^2.0.0",
+    "array-subtract": "^2.0.0",
+    "body-parser": "^1.18.2",
+    "difference": "^1.0.2",
+    "express": "^4.16.3",
+    "is-match": "^1.0.0",
+    "mathjs": "^4.1.2",
+    "path": "^0.12.7"
+  }
+}
